@@ -4,7 +4,7 @@
 
 Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
 
-## Examples
+### Examples
 ```
 16  -->  1 + 6 = 7
 ```
@@ -23,9 +23,9 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 
 Create a function named rotateMatrix that takes an n×n integer matrix (array of arrays) as parameter and returns a matrix which elements are rotated 90 degrees clockwise.
 
-## Example
+### Example
 
-### Input:
+#### Input:
 ```
 [
   [1, 2, 3],
@@ -34,7 +34,7 @@ Create a function named rotateMatrix that takes an n×n integer matrix (array of
 ]
 ```
 
-### Output:
+#### Output:
 ```
 [
   [ 7, 4, 1 ],
@@ -50,7 +50,7 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
 
 Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 
-## Example
+### Example
 ```
 ['n','n','e', 's', 'w', 's']  -->  false
 ```
@@ -64,7 +64,7 @@ Note: you will always receive a valid array containing a random assortment of di
 A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
 
-## Example
+### Example
 ```
 "Mr. Jock, TV quiz PhD., bags few lynx."  -->  true
 ```
@@ -79,14 +79,14 @@ Given two arrays of strings a1 and a2 return a sorted array r in lexicographical
 
 Notes: Arrays are written in "general" notation. See "Your Test Cases" for examples in your language. In Shell bash a1 and a2 are strings. The return is a string where words are separated by commas. Beware: r must be without duplicates.
 
-## Example
-### Input:
+### Example
+#### Input:
 ```
 a1 = ["arp", "live", "strong"]
 a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 ```
 
-### Output:
+#### Output:
 ```
 ["arp", "live", "strong"]
 ```
@@ -107,7 +107,7 @@ a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 
 xxx
 
-## Example
+### Example
 ```
 xxx
 ```
