@@ -42,3 +42,228 @@ Create a function named rotateMatrix that takes an n×n integer matrix (array of
   [ 9, 6, 3 ] 
 ]
 ```
+
+
+## __3. Killing time in Cartesia__
+
+You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
+
+## Example
+```
+['n','n','s', 'e', 's', 'w'] -> false
+```
+
+```
+['n', 'w', 'n', 'e', 's', 's', 'w', 'n', 'e', 's'] -> true
+```
+
+## __4. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __5. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __6. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
+
+
+## __. XXX__
+
+xxx
+
+## Example
+```
+xxx
+```
