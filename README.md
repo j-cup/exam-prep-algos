@@ -120,13 +120,19 @@ alphabetPosition("The sunset sets at twelve o' clock.")
 "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11"
 ```
 
-## __. XXX__
+## __7. Who likes it?__ [[CW-6](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)]
 
-xxx
+You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+
+Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
 
 ## Example
 ```
-xxx
+[]                                -->  "no one likes this"
+["Peter"]                         -->  "Peter likes this"
+["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
+["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
+["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
 ```
 
 
