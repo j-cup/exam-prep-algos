@@ -105,13 +105,9 @@ a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 
 ## __6. Replace With Alphabet Position__ [[CW-6](https://www.codewars.com/kata/546f922b54af40e1e90001da)]
 
-In this kata you are required to, given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it. 
+In this kata you are required to, given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it. `"a" = 1, "b" = 2` 
 
-```
-'a' = 'A'  -->  1 
-'b' = 'B'  -->  2
-...
-```
+Note: we do not differentiate between lowercase and uppercase.
 
 ### Example
 #### Input:
