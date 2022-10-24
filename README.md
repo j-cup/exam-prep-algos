@@ -17,3 +17,28 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 ```
 493193  -->  4 + 9 + 3 + 1 + 9 + 3 = 29  -->  2 + 9 = 11  -->  1 + 1 = 2
 ```
+
+
+## __2. Matrix rotate__
+
+Create a function named rotateMatrix that takes an n×n integer matrix (array of arrays) as parameter and returns a matrix which elements are rotated 90 degrees clockwise.
+
+## Example
+
+### Input:
+```
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+```
+
+### Output:
+```
+[
+  [ 7, 4, 1 ],
+  [ 8, 5, 2 ],
+  [ 9, 6, 3 ] 
+]
+```
