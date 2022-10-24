@@ -122,8 +122,7 @@ alphabetPosition("The sunset sets at twelve o' clock.")
 
 ## __7. Who likes it?__ [[CW-6](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)]
 
-You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
-Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
+You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item. Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
 
 ### Example
 ```
@@ -135,13 +134,13 @@ Implement the function which takes an array containing the names of people that 
 ```
 
 
-## __. XXX__
+## __8. Moving Zeros To The End__ [[CW-5](https://www.codewars.com/kata/52597aa56021e91c93000cb0)]
 
-xxx
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
-## Example
+### Example
 ```
-xxx
+moveZeros([false,1,0,1,2,0,1,3,"a"]) -->  [false,1,1,2,1,3,"a",0,0]
 ```
 
 
