@@ -52,7 +52,7 @@ Note: you will always receive a valid array containing a random assortment of di
 
 ## Example
 ```
-['n','n','s', 'e', 's', 'w']  -->  false
+['n','n','e', 's', 'w', 's']  -->  false
 ```
 
 ```
