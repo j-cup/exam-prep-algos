@@ -73,13 +73,33 @@ Given a string, detect whether or not it is a pangram. Return True if it is, Fal
 "Alphabet is cool"  -->  false
 ```
 
-## __5. XXX__
+## __5. XXX__ [CW-6](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 
-xxx
+Given two arrays of strings a1 and a2 return a sorted array r in lexicographical order of the strings of a1 which are substrings of strings of a2.
+
+Notes: Arrays are written in "general" notation. See "Your Test Cases" for examples in your language. In Shell bash a1 and a2 are strings. The return is a string where words are separated by commas. Beware: r must be without duplicates.
 
 ## Example
+### Input:
 ```
-xxx
+a1 = ["arp", "live", "strong"]
+a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
+```
+
+### Output:
+```
+["arp", "live", "strong"]
+```
+
+### Input:
+```
+a1 = ["tarp", "mice", "bull"]
+a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
+```
+
+### Output:
+```
+[]
 ```
 
 
